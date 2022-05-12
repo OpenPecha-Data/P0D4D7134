@@ -21,3 +21,8 @@ source_metadata:
       parent: Dharma Protectors
 created_at: '2022-03-01T00:39:16.900628'
 last_modified_at: '2022-03-01T00:39:16.900630'
+statistics:
+  total_words: 515
+  total_non_words: 43
+quality:
+  non_words_ratio: 0.08
